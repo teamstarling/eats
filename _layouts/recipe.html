@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<h3>Ingredients</h3>
+<ul>
+  {% for item in page.ingredients %}
+    <li>{{ item.amount }} {{ item.name }}</li>
+  {% endfor %}
+</ul>
+
+<h3>Cookware</h3>
+<ul>
+  {% for item in page.cookware %}
+    <li>{{ item.name }}</li>
+  {% endfor %}
+</ul>
+
+<h3>Method</h3>
+<ol>
+  {% for item in page.steps %}
+    <li>{{ item.description }}</li>
+  {% endfor %}
+</ol>

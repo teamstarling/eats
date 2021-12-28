@@ -28,6 +28,17 @@ baseurl: "/eats/" # the subpath of your site, e.g. /blog
 url: https://teamstarling.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  markstar
 
+collections:
+  recipes:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "recipes"
+    values:
+      layout: "recipe"
+
 # Build settings
 # theme: minima
 plugins:

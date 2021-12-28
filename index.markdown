@@ -4,3 +4,11 @@
 
 title: Home
 ---
+
+{% for recipe in site.recipes %}
+  <h2>
+    <a href="{{ recipe.url | relative_url }}">
+      {{ recipe.title }}
+    </a>
+  </h2>
+{% endfor %}
