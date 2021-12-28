@@ -2,26 +2,26 @@
 title: Galettes
 category: Brunch
 ingredients:
-- name: spring onions
-  amount: '4'
+- name: eggs
+  amount: '5'
 - name: water
   amount: 400 ml
-- name: coconut oil
-  amount: 4 tsp
-- name: salt
-  amount: 1 tsp
-- name: ham
-  amount: 4 slices
-- name: buckwheat flour
-  amount: 220 g
-- name: cheese
-  amount: 200 g
 - name: nutmeg
   amount: 2 tsp
 - name: pepper
   amount: 1 tsp
-- name: egg
-  amount: '5'
+- name: buckwheat flour
+  amount: 220 g
+- name: spring onions
+  amount: '4'
+- name: cheese
+  amount: 200 g
+- name: salt
+  amount: 1 tsp
+- name: coconut oil
+  amount: 4 tsp
+- name: ham
+  amount: 4 slices
 cookware:
 - name: mixing bowl
 - name: whisk
@@ -30,15 +30,15 @@ cookware:
 - name: grater
 - name: spatula
 steps:
-- description: Grab a mixing bowl and add in the buckwheat flour, whisk in the egg
-    and then gradually add the water to form the mixture for the galette.
+- description: Grab a mixing bowl and add in the buckwheat flour, whisk in one of
+    the eggs and then gradually add the water to form the mixture for the galette.
 - description: Add a teaspoon of coconut oil to a frying pan on a high heat and then
     add a scoop of the mixture to the pan to cook until the galette is firm. While
     it's cooking, you can slice the spring onions and break up the ham.
-- description: Then crack the egg on it and use the back of a fork to spread the egg
-    white around the surface. Once you're happy, make sure the yolk rests in the middle,
-    then put a lid on to steam the egg white until it's firm (and the yolk is still
-    runny).
+- description: Then crack another one of the eggs on it and use the back of a fork
+    to spread the egg white around the surface. Once you're happy, make sure the yolk
+    rests in the middle, then put a lid on to steam the egg white until it's firm
+    (and the yolk is still runny).
 - description: Now break up the ham and scatter it over the galette, avoiding the
     egg yolk. Then grab the grater and grate the cheese over the ham and then sprinkle
     the sliced spring onion on it.
