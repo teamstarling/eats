@@ -1,6 +1,6 @@
 ---
 title: Banana Pancakes
-category: breakfast
+category: Breakfast
 ingredients:
 - name: baking powder
   amount: 1 pinch
