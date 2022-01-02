@@ -1,6 +1,6 @@
 ---
 title: Brownies
-category: Treats
+category: Treat
 ingredients:
 - name: eggs
   amount: '2'

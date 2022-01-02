@@ -1,6 +1,6 @@
 ---
 title: Flapjacks
-category: Treats
+category: Treat
 ingredients:
 - name: peanut butter
   amount: 250 g
