@@ -8,10 +8,17 @@ layout: compress
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} | Team Starling Eats</title>
+    <style type="text/css">
+        {% capture include_to_scssify %}
+          {% include inline.scss %}
+        {% endcapture %}
+        {{ include_to_scssify | scssify }}
+    </style>  
 </head>
 <body>
     <nav>
-        <a href='{{ "/" | relative_url }}'>Home</a>
+        TEAM STARLING / EATS :
+        <a href='{{ "/" | relative_url }}'>Home</a> |
         <a href='{{ "/about" | relative_url }}'>About</a>
     </nav>
     <h1>{{ page.title }}</h1>

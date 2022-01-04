@@ -1,0 +1,33 @@
+@import "css-reset";
+
+
+html {
+    background-color: #222626;
+    padding: 1em;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 100%;
+    color: #6E6D6E;
+}
+h1 {
+    color: #CDD1CC;
+    font-size: 2rem;
+    margin-top: 1em;
+}
+h3 {
+    color: #8C8C94;
+    font-size: 1.3rem;
+    margin: 1em 0em 0.2em 0em;
+}
+a {
+    color: #0AB377;
+    cursor: pointer;
+}
+a:hover {
+    text-decoration: underline;
+}
+nav {
+    font-size: 0.8rem;
+}
+section {
+    max-width: 600px;
+}
