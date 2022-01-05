@@ -31,3 +31,17 @@ nav {
 section {
     max-width: 600px;
 }
+ol {
+    list-style: numeric;
+}
+ul {
+    list-style-type: '- ';
+}
+ol li {
+    margin: 0.5em 1.1em;
+    padding-left: 0.3em;
+}
+ul li {
+    margin: 0.2em 1.1em;
+    padding-left: 0.3em;
+}
