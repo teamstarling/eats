@@ -3,7 +3,7 @@
 
 html {
     background-color: #222626;
-    padding: 1em;
+    padding: 2em 1em;
     font-family: 'Open Sans', sans-serif;
     font-size: 100%;
     color: #8C8C94;
@@ -11,7 +11,7 @@ html {
 h1 {
     color: #DDE2DD;
     font-size: 2rem;
-    margin-top: 1em;
+    margin: 1em 0 0 0.46em;
 }
 h3 {
     color: #CDD1CC;
@@ -27,9 +27,11 @@ a:hover {
 }
 nav {
     font-size: 0.8rem;
+    margin: 0.4em 0 0 1.3em;
 }
 section {
     max-width: 600px;
+    margin-left: 1em;
 }
 ol {
     list-style: decimal;
