@@ -1,27 +1,30 @@
 ---
 title: Chilli Pork Noodles
-category: Main
+metadata:
+  course: Main
+  title: Chilli Pork Noodles
+  servings: '4'
 ingredients:
 - name: red pepper
   amount: '1'
-- name: coconut oil
-  amount: 1 tsp
 - name: pork mince
   amount: 500g
-- name: green pepper
-  amount: '1'
 - name: water
   amount: 250 ml
-- name: stock cube
+- name: onion
   amount: '1'
+- name: noodles
+  amount: 4 portions
 - name: red chilli
   amount: '2'
-- name: onion
+- name: coconut oil
+  amount: 1 tsp
+- name: stock cube
   amount: '1'
 - name: chopped tomatoes
   amount: 400 g
-- name: noodles
-  amount: 4 portions
+- name: green pepper
+  amount: '1'
 cookware:
 - name: frying pan
 steps:
@@ -35,4 +38,6 @@ steps:
     and a green pepper.
 - description: Simmer for around 30 minutes until the sauce has reduced.
 - description: Cook the noodles and then add them to the mince. Stir through and serve.
+
+
 ---

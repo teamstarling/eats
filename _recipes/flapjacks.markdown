@@ -1,21 +1,24 @@
 ---
 title: Flapjacks
-category: Treat
+metadata:
+  title: Flapjacks
+  course: Treat
+  servings: '16'
 ingredients:
-- name: peanut butter
-  amount: 250 g
-- name: oats
-  amount: 180 g
 - name: rice syrup
   amount: 120 g
-- name: sunflower seeds
-  amount: some
-- name: chia seeds
-  amount: some
 - name: dates
   amount: some
 - name: raisins
   amount: some
+- name: sunflower seeds
+  amount: some
+- name: peanut butter
+  amount: 250 g
+- name: chia seeds
+  amount: some
+- name: oats
+  amount: 180 g
 cookware:
 - name: mixing bowl
 - name: baking tray
@@ -31,4 +34,6 @@ steps:
     it so it's just under 1cm thick. And put it in the oven for 10 minutes, or until
     slightly golden.
 - description: Leave to cool and then slice into 16 even portions.
+
+
 ---

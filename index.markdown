@@ -5,7 +5,7 @@
 title: Recipes
 ---
 
-{% assign groups = site.recipes | group_by: "category" | sort: "name" %}
+{% assign groups = site.recipes | group_by: "metadata.course" | sort: "name" %}
 
 {% for group in groups %}
 <h3>{{ group.name }}</h3>

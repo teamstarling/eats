@@ -1,19 +1,23 @@
 ---
 title: Banana Pancakes
-category: Breakfast
+metadata:
+  servings: '1'
+  title: Banana Pancakes
+  source: https://www.panmacmillan.com/blogs/lifestyle-wellbeing/joe-wicks-protein-pancakes-recipe-body-coach
+  course: Breakfast
 ingredients:
-- name: baking powder
-  amount: 1 pinch
-- name: egg
-  amount: '1'
-- name: banana
-  amount: '1'
-- name: coconut oil
-  amount: 1 tsp
 - name: oats
   amount: 25 g
+- name: coconut oil
+  amount: 1 tsp
 - name: protein powder
   amount: 1 scoop
+- name: banana
+  amount: '1'
+- name: egg
+  amount: '1'
+- name: baking powder
+  amount: 1 pinch
 cookware:
 - name: blender
 - name: frying pan
@@ -26,4 +30,6 @@ steps:
     and then flip with a spatula to cook the other side.
 - description: Work your way through the rest of the mixture, and then serve with
     your favourite toppings.
+
+
 ---

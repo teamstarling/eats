@@ -1,19 +1,22 @@
 ---
 title: Porridge
-category: Breakfast
+metadata:
+  servings: '1'
+  title: Porridge
+  course: Breakfast
 ingredients:
-- name: oats
-  amount: 0.5 cups
-- name: oat milk
-  amount: 0.5 cups
-- name: water
-  amount: 0.5 cups
-- name: cinnamon
-  amount: 0.5 tsp
-- name: chia seeds
-  amount: some
 - name: raisins
   amount: some
+- name: water
+  amount: 0.5 cups
+- name: chia seeds
+  amount: some
+- name: cinnamon
+  amount: 0.5 tsp
+- name: oat milk
+  amount: 0.5 cups
+- name: oats
+  amount: 0.5 cups
 - name: dates
   amount: some
 - name: flaxseed
@@ -25,4 +28,6 @@ steps:
 - description: Now add some toppings. I use flaxseed, chia seeds, raisins and dates.
 - description: Cook on a medium heat, stirring to prevent the porridge from sticking,
     until it's hot and thickened.
+
+
 ---

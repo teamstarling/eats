@@ -1,23 +1,27 @@
 ---
 title: Galettes
-category: Brunch
+metadata:
+  title: Galettes
+  source: https://www.youtube.com/watch?v=CK8T7v0NZ8Y
+  course: Brunch
+  servings: '4'
 ingredients:
-- name: eggs
-  amount: '5'
-- name: water
-  amount: 400 ml
 - name: nutmeg
   amount: 2 tsp
-- name: pepper
-  amount: 1 tsp
-- name: buckwheat flour
-  amount: 220 g
-- name: spring onions
-  amount: '4'
 - name: cheese
   amount: 200 g
 - name: salt
   amount: 1 tsp
+- name: buckwheat flour
+  amount: 220 g
+- name: pepper
+  amount: 1 tsp
+- name: water
+  amount: 400 ml
+- name: spring onions
+  amount: '4'
+- name: eggs
+  amount: '5'
 - name: coconut oil
   amount: 4 tsp
 - name: ham
@@ -48,4 +52,6 @@ steps:
     leaving the yolk exposed in the middle, then serve and start the next one!
 - description: If you don't want to cook all four in one go, the mixture will keep
     in the fridge for a few days.
+
+
 ---
