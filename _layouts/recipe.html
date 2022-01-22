@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+<aside>
+  <span>Servings: {{ page.metadata.servings }}</span>
+  {% if page.metadata.source %}
+  <span> <a href="{{ page.metadata.source }}">Source</a></span>
+  {% endif %}
+</aside>
 
 <h3>Ingredients</h3>
 <ul>

@@ -36,6 +36,18 @@ section {
     max-width: 600px;
     margin-left: 1em;
 }
+aside {
+    font-size: 0.7rem;
+    margin-top: 0.2em;
+
+    span {
+        background: #1a1e1e;
+        border-radius: 0.4em;
+        margin-right: 0.3em;
+        padding: 0.1em 0.4em 0.2em 0.4em;
+        display: inline-block;
+    }
+}
 ol {
     list-style: decimal;
 }
