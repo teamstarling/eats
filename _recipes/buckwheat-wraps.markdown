@@ -1,17 +1,17 @@
 ---
 title: Buckwheat Wraps
 metadata:
-  source: https://www.freee-foods.co.uk/recipes/buckwheat-flat-bread-tortilla-wraps
-  servings: '2'
   course: Side
   title: Buckwheat Wraps
+  source: https://www.freee-foods.co.uk/recipes/buckwheat-flat-bread-tortilla-wraps
+  servings: '2'
 ingredients:
-- name: buckwheat flour
-  amount: 100 g
 - name: coconut oil
   amount: 4 tsp
 - name: tepid water
   amount: 180 ml
+- name: buckwheat flour
+  amount: 100 g
 cookware:
 - name: mixing bowl
 - name: whisk
@@ -26,6 +26,5 @@ steps:
     flip.
 - description: Flip it over and cook the other side for 1-2 minutes.
 - description: Transfer to a plate, and cover with foil if you want to keep it warm.
-
 
 ---

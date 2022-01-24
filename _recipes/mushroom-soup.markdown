@@ -2,23 +2,23 @@
 title: Mushroom Soup
 metadata:
   servings: '6'
-  title: Mushroom Soup
   course: Main
+  title: Mushroom Soup
 ingredients:
 - name: mixed herbs
   amount: some
 - name: onion
   amount: '1'
+- name: red lentils
+  amount: 200 g
 - name: garlic cloves
   amount: '4'
+- name: stock
+  amount: 1500 ml
 - name: diced mushrooms
   amount: 400 g
 - name: coconut milk
   amount: 400ml
-- name: red lentils
-  amount: 200 g
-- name: stock
-  amount: 1500 ml
 cookware:
 - name: pressure cooker
 - name: mixing bowl
@@ -31,6 +31,5 @@ steps:
     herbs to the pot and pressure cook for 10 minutes.
 - description: Pour out into a mixing bowl and leave until it cools a little.
 - description: Use a soup blender to blend into a smooth soup.
-
 
 ---

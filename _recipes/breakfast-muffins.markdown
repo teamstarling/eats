@@ -1,19 +1,19 @@
 ---
 title: Breakfast Muffins
 metadata:
-  course: Breakfast
   servings: '12'
+  course: Breakfast
   title: Breakfast Muffins
 ingredients:
+- name: cinnamon
+  amount: 1 tsp
 - name: frozen raspberries
   amount: 150 g
+- name: raisins
+  amount: 30 g
 - name: oats
   amount: 450 g
 - name: baking powder
-  amount: 1 tsp
-- name: raisins
-  amount: 30 g
-- name: cinnamon
   amount: 1 tsp
 - name: greek yogurt
   amount: 500 g
@@ -28,6 +28,5 @@ steps:
 - description: Add 12 muffin cases into a muffin tray and divide the mixture evenly
     across them all.
 - description: Cook in the oven for 15 minutes and allow to cool before storing them.
-
 
 ---

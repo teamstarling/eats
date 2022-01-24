@@ -1,28 +1,28 @@
 ---
 title: Brownies
 metadata:
-  servings: '16'
-  title: Brownies
   course: Treat
+  title: Brownies
+  servings: '16'
 ingredients:
-- name: cacao powder
-  amount: 65g
-- name: dates
-  amount: 45g
-- name: maple syrup
-  amount: 320 g
-- name: chocolate chips
-  amount: 75g
-- name: vanilla essence
-  amount: 1 tbsp
-- name: baking powder
-  amount: 1 tsp
-- name: peanut butter
-  amount: 590 g
-- name: salt
-  amount: 0.5 tsp
 - name: eggs
   amount: '2'
+- name: dates
+  amount: 45g
+- name: vanilla essence
+  amount: 1 tbsp
+- name: chocolate chips
+  amount: 75g
+- name: baking powder
+  amount: 1 tsp
+- name: salt
+  amount: 0.5 tsp
+- name: maple syrup
+  amount: 320 g
+- name: cacao powder
+  amount: 65g
+- name: peanut butter
+  amount: 590 g
 cookware:
 - name: mixing bowl
 - name: whisk
@@ -39,6 +39,5 @@ steps:
 - description: Line a deep baking tray with baking paper and spread the mixture evenly
     across it. And put it in the oven for 20 minutes, or until slightly golden.
 - description: Leave to cool and then slice into 16 even portions.
-
 
 ---
