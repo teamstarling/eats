@@ -6,22 +6,22 @@ metadata:
   servings: '3'
   title: Tomato Dahl
 ingredients:
-- name: chopped tomatoes
-  amount: 400 g
-- name: miso paste
-  amount: 1 tsp
-- name: coconut milk
-  amount: 400 ml
-- name: mild curry powder
-  amount: 2 tsp
-- name: crushed garlic
-  amount: 4 cloves
-- name: greek yogurt
-  amount: 4 tbsp
 - name: soy sauce
   amount: 2 tbsp
+- name: greek yogurt
+  amount: 4 tbsp
+- name: miso paste
+  amount: 1 tsp
+- name: crushed garlic
+  amount: 4 cloves
 - name: washed red split lentils
   amount: 260 g
+- name: mild curry powder
+  amount: 2 tsp
+- name: coconut milk
+  amount: 400 ml
+- name: chopped tomatoes
+  amount: 400 g
 cookware:
 - name: pan
 steps:

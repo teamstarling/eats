@@ -1,22 +1,22 @@
 ---
 title: Breakfast Muffins
 metadata:
-  servings: '12'
   course: Breakfast
+  servings: '12'
   title: Breakfast Muffins
 ingredients:
-- name: cinnamon
-  amount: 1 tsp
-- name: frozen raspberries
-  amount: 150 g
 - name: raisins
   amount: 30 g
-- name: oats
-  amount: 450 g
 - name: baking powder
   amount: 1 tsp
 - name: greek yogurt
   amount: 500 g
+- name: frozen raspberries
+  amount: 150 g
+- name: cinnamon
+  amount: 1 tsp
+- name: oats
+  amount: 450 g
 cookware:
 - name: mixing bowl
 - name: 12 muffin cases
