@@ -10,12 +10,12 @@ ingredients:
   amount: 1 pinch
 - name: egg
   amount: '1'
-- name: protein powder
-  amount: 1 scoop
 - name: coconut oil
   amount: 1 tsp
 - name: oats
   amount: 25 g
+- name: protein powder
+  amount: 1 scoop
 - name: banana
   amount: '1'
 cookware:

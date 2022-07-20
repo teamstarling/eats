@@ -5,28 +5,28 @@ metadata:
   course: Treat
   servings: '16'
 ingredients:
-- name: baked sweet potato
-  amount: '3'
-- name: maple syrup
+- name: cocoa powder
   amount: 0.25 cups
+- name: tahini
+  amount: 2 tbsp
 - name: oat milk
+  amount: 0.25 cups
+- name: buckwheat flour
+  amount: 0.5 cups
+- name: maple syrup
   amount: 0.25 cups
 - name: baking powder
   amount: 1 tsp
-- name: eggs
-  amount: '2'
 - name: medjool dates
   amount: '3'
-- name: cocoa powder
-  amount: 0.25 cups
-- name: chocolate chips
-  amount: 2 tbsp
-- name: buckwheat flour
-  amount: 0.5 cups
 - name: salt
   amount: 1 tsp
-- name: tahini
+- name: chocolate chips
   amount: 2 tbsp
+- name: baked sweet potato
+  amount: '3'
+- name: eggs
+  amount: '2'
 cookware:
 - name: mixing bowl
 - name: mash
