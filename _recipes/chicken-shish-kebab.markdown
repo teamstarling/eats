@@ -1,38 +1,38 @@
 ---
 title: Chicken Shish Kebab
 metadata:
-  course: Main
   title: Chicken Shish Kebab
+  course: Main
   servings: '4'
 ingredients:
+- name: "tomato pur\xE9e"
+  amount: 2 tbsp
 - name: onion
   amount: '1'
-- name: vegetable oil
-  amount: 3 tbsp
+- name: salt
+  amount: 1 tsp
+- name: garlic
+  amount: 2 cloves
+- name: chicken breasts
+  amount: '2'
 - name: yogurt
   amount: 0.5 cups
 - name: paprika
   amount: 1 tsp
-- name: garlic
-  amount: 2 cloves
-- name: "tomato pur\xE9e"
-  amount: 2 tbsp
-- name: chicken breasts
-  amount: '2'
 - name: black pepper
   amount: 1 tsp
-- name: salt
-  amount: 1 tsp
+- name: vegetable oil
+  amount: 3 tbsp
 cookware:
 - name: bowl
 - name: bowl
-- name: seive
+- name: sieve
 - name: wooden spoon
 steps:
 - description: Peel the onion, and garlic and then grate with a fine grater to make
     a pulp into a bowl.
 - description: Pour the pulp, and any remaining juices, into another bowl through
-    a seive, using a wooden spoon to press out the juices from the pulp. Throw away
+    a sieve, using a wooden spoon to press out the juices from the pulp. Throw away
     the pulp once you've squeezed out all of the juice.
 - description: "Now mix in the greek yogurt, vegetable oil, tomato pur\xE9e, black
     pepper, paprika, and salt."

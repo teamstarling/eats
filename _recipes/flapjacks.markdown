@@ -9,16 +9,16 @@ ingredients:
   amount: 250 g
 - name: raisins
   amount: some
+- name: dates
+  amount: some
 - name: chia seeds
   amount: some
 - name: rice syrup
   amount: 120 g
-- name: oats
-  amount: 180 g
-- name: dates
-  amount: some
 - name: sunflower seeds
   amount: some
+- name: oats
+  amount: 180 g
 cookware:
 - name: mixing bowl
 - name: baking tray
