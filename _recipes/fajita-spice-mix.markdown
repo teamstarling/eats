@@ -1,16 +1,16 @@
 ---
-title: Yorkshire Puddings
+title: Fajita Spice Mix
 metadata:
   title: Yorkshire Puddings
   course: Side
   servings: '6'
 ingredients:
+- name: olive oil
+  amount: 6 tbsp
 - name: eggs
   amount: '2'
 - name: oat milk
   amount: 100 ml
-- name: olive oil
-  amount: 6 tbsp
 - name: cornflour
   amount: 65 g
 cookware:

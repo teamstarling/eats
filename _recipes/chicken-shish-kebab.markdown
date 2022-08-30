@@ -1,28 +1,28 @@
 ---
 title: Chicken Shish Kebab
 metadata:
+  servings: '4'
   title: Chicken Shish Kebab
   course: Main
-  servings: '4'
 ingredients:
+- name: black pepper
+  amount: 1 tsp
 - name: "tomato pur\xE9e"
   amount: 2 tbsp
-- name: onion
-  amount: '1'
-- name: salt
-  amount: 1 tsp
-- name: garlic
-  amount: 2 cloves
 - name: chicken breasts
   amount: '2'
 - name: yogurt
   amount: 0.5 cups
-- name: paprika
-  amount: 1 tsp
-- name: black pepper
-  amount: 1 tsp
 - name: vegetable oil
   amount: 3 tbsp
+- name: salt
+  amount: 1 tsp
+- name: garlic
+  amount: 2 cloves
+- name: onion
+  amount: '1'
+- name: paprika
+  amount: 1 tsp
 cookware:
 - name: bowl
 - name: bowl
@@ -41,6 +41,6 @@ steps:
 - description: Leave the chicken to marinate in the fridge overnight, or at least
     4 hours.
 - description: The chicken can now be cooked on the BBQ, using the grill setting of
-    your oven or by putting the chicken on a tray in the oven for 30 minutes.
+    your oven, or by putting the chicken on a tray in the oven for 30 minutes.
 
 ---
