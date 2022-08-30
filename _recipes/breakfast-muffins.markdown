@@ -1,14 +1,12 @@
 ---
 title: Breakfast Muffins
 metadata:
-  title: Breakfast Muffins
   course: Breakfast
   servings: '12'
+  title: Breakfast Muffins
 ingredients:
 - name: baking powder
   amount: 1 tsp
-- name: oats
-  amount: 450 g
 - name: cinnamon
   amount: 1 tsp
 - name: frozen raspberries
@@ -17,6 +15,8 @@ ingredients:
   amount: 500 g
 - name: raisins
   amount: 30 g
+- name: oats
+  amount: 450 g
 cookware:
 - name: mixing bowl
 - name: 12 muffin cases

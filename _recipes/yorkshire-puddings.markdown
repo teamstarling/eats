@@ -5,14 +5,14 @@ metadata:
   course: Side
   servings: '6'
 ingredients:
-- name: eggs
-  amount: '2'
-- name: oat milk
-  amount: 100 ml
 - name: olive oil
   amount: 6 tbsp
 - name: cornflour
   amount: 65 g
+- name: oat milk
+  amount: 100 ml
+- name: eggs
+  amount: '2'
 cookware:
 - name: muffin tray
 - name: mixing bowl

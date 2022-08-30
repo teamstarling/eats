@@ -1,24 +1,24 @@
 ---
 title: Mushroom Soup
 metadata:
+  servings: '6'
   course: Main
   title: Mushroom Soup
-  servings: '6'
 ingredients:
-- name: coconut milk
-  amount: 400ml
-- name: red lentils
-  amount: 200 g
 - name: onion
   amount: '1'
-- name: garlic cloves
-  amount: '4'
-- name: mixed herbs
-  amount: some
+- name: red lentils
+  amount: 200 g
 - name: stock
   amount: 1500 ml
 - name: diced mushrooms
   amount: 400 g
+- name: mixed herbs
+  amount: some
+- name: coconut milk
+  amount: 400ml
+- name: garlic cloves
+  amount: '4'
 cookware:
 - name: pressure cooker
 - name: mixing bowl
