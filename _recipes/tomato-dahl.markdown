@@ -1,27 +1,27 @@
 ---
 title: Tomato Dahl
 metadata:
-  servings: '3'
   title: Tomato Dahl
   source: https://smile.amazon.co.uk/Imperfect-Vegan-Fearne-Cotton/dp/1841882895/
+  servings: '3'
   course: Main
 ingredients:
 - name: crushed garlic
   amount: 4 cloves
+- name: soy sauce
+  amount: 2 tbsp
+- name: mild curry powder
+  amount: 2 tsp
+- name: coconut milk
+  amount: 400 ml
+- name: greek yogurt
+  amount: 4 tbsp
+- name: miso paste
+  amount: 1 tsp
 - name: washed red split lentils
   amount: 260 g
 - name: chopped tomatoes
   amount: 400 g
-- name: miso paste
-  amount: 1 tsp
-- name: coconut milk
-  amount: 400 ml
-- name: soy sauce
-  amount: 2 tbsp
-- name: greek yogurt
-  amount: 4 tbsp
-- name: mild curry powder
-  amount: 2 tsp
 cookware:
 - name: pan
 steps:

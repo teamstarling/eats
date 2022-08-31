@@ -1,30 +1,30 @@
 ---
 title: Chilli Pork Noodles
 metadata:
-  title: Chilli Pork Noodles
-  servings: '4'
   course: Main
+  servings: '4'
+  title: Chilli Pork Noodles
 ingredients:
-- name: noodles
-  amount: 4 portions
-- name: water
-  amount: 250 ml
-- name: stock cube
+- name: green pepper
   amount: '1'
-- name: pork mince
-  amount: 500g
-- name: red chilli
-  amount: '2'
 - name: red pepper
+  amount: '1'
+- name: stock cube
   amount: '1'
 - name: chopped tomatoes
   amount: 400 g
-- name: onion
-  amount: '1'
+- name: noodles
+  amount: 4 portions
+- name: pork mince
+  amount: 500g
 - name: coconut oil
   amount: 1 tsp
-- name: green pepper
+- name: water
+  amount: 250 ml
+- name: onion
   amount: '1'
+- name: red chilli
+  amount: '2'
 cookware:
 - name: frying pan
 steps:

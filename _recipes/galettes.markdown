@@ -2,30 +2,30 @@
 title: Galettes
 metadata:
   title: Galettes
-  source: https://www.youtube.com/watch?v=CK8T7v0NZ8Y
   servings: '4'
   course: Brunch
+  source: https://www.youtube.com/watch?v=CK8T7v0NZ8Y
 ingredients:
 - name: spring onions
   amount: '4'
 - name: water
   amount: 400 ml
-- name: salt
-  amount: 1 tsp
 - name: coconut oil
   amount: 4 tsp
-- name: cheese
-  amount: 200 g
-- name: nutmeg
-  amount: 2 tsp
-- name: eggs
-  amount: '5'
-- name: pepper
-  amount: 1 tsp
 - name: ham
   amount: 4 slices
+- name: salt
+  amount: 1 tsp
 - name: buckwheat flour
   amount: 220 g
+- name: nutmeg
+  amount: 2 tsp
+- name: pepper
+  amount: 1 tsp
+- name: cheese
+  amount: 200 g
+- name: eggs
+  amount: '5'
 cookware:
 - name: mixing bowl
 - name: whisk
