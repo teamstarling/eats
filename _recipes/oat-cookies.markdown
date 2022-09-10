@@ -1,24 +1,24 @@
 ---
 title: Oat Cookies
 metadata:
-  title: Oat Cookies
   servings: '12'
+  title: Oat Cookies
   course: Treat
 ingredients:
+- name: protein powder
+  amount: 1 heaped tbsp
+- name: oat milk
+  amount: 1 tbsp
 - name: oats
   amount: 200 g
-- name: chocolate chips
-  amount: 40 g
-- name: protein powder
+- name: cacao powder
   amount: 1 heaped tbsp
 - name: baking powder
   amount: 1 tsp
 - name: melted coconut oil
   amount: 4 tbsp
-- name: oat milk
-  amount: 1 tbsp
-- name: cacao powder
-  amount: 1 heaped tbsp
+- name: chocolate chips
+  amount: 40 g
 - name: maple syrup
   amount: 7 tbsp
 cookware:

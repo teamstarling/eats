@@ -7,20 +7,20 @@ metadata:
 ingredients:
 - name: dried oregano
   amount: 1 tbsp
-- name: ground cumin
-  amount: 2 tbsp
+- name: salt
+  amount: 1 tsp
+- name: black pepper
+  amount: 1 tsp
+- name: garlic powder
+  amount: 1 tbsp
+- name: sweet paprika
+  amount: 1 tbsp
 - name: onion powder
   amount: 1 tsp
 - name: chilli powder
   amount: 2 tbsp
-- name: black pepper
-  amount: 1 tsp
-- name: sweet paprika
-  amount: 1 tbsp
-- name: salt
-  amount: 1 tsp
-- name: garlic powder
-  amount: 1 tbsp
+- name: ground cumin
+  amount: 2 tbsp
 cookware:
 - name: bowl
 - name: container
