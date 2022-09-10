@@ -2,9 +2,9 @@
 title: Buckwheat Wraps
 metadata:
   course: Side
-  title: Buckwheat Wraps
-  source: https://www.freee-foods.co.uk/recipes/buckwheat-flat-bread-tortilla-wraps
   servings: '2'
+  source: https://www.freee-foods.co.uk/recipes/buckwheat-flat-bread-tortilla-wraps
+  title: Buckwheat Wraps
 ingredients:
 - name: tepid water
   amount: 180 ml

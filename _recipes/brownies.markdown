@@ -2,27 +2,27 @@
 title: Brownies
 metadata:
   course: Treat
-  servings: '16'
   title: Brownies
+  servings: '16'
 ingredients:
-- name: dates
-  amount: 45g
-- name: maple syrup
-  amount: 320 g
-- name: baking powder
-  amount: 1 tsp
-- name: cacao powder
-  amount: 65g
-- name: vanilla essence
-  amount: 1 tbsp
-- name: chocolate chips
-  amount: 75g
-- name: peanut butter
-  amount: 590 g
-- name: eggs
-  amount: '2'
 - name: salt
   amount: 0.5 tsp
+- name: peanut butter
+  amount: 590 g
+- name: cacao powder
+  amount: 65g
+- name: maple syrup
+  amount: 320 g
+- name: eggs
+  amount: '2'
+- name: baking powder
+  amount: 1 tsp
+- name: dates
+  amount: 45g
+- name: chocolate chips
+  amount: 75g
+- name: vanilla essence
+  amount: 1 tbsp
 cookware:
 - name: mixing bowl
 - name: whisk

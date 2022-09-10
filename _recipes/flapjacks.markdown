@@ -1,24 +1,24 @@
 ---
 title: Flapjacks
 metadata:
-  course: Treat
-  title: Flapjacks
   servings: '16'
+  title: Flapjacks
+  course: Treat
 ingredients:
-- name: chia seeds
-  amount: some
-- name: peanut butter
-  amount: 250 g
-- name: raisins
-  amount: some
-- name: rice syrup
-  amount: 120 g
 - name: dates
+  amount: some
+- name: sunflower seeds
+  amount: some
+- name: chia seeds
   amount: some
 - name: oats
   amount: 180 g
-- name: sunflower seeds
+- name: rice syrup
+  amount: 120 g
+- name: raisins
   amount: some
+- name: peanut butter
+  amount: 250 g
 cookware:
 - name: mixing bowl
 - name: baking tray

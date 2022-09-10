@@ -5,20 +5,20 @@ metadata:
   course: Main
   servings: '6'
 ingredients:
+- name: onion
+  amount: '1'
+- name: stock
+  amount: 1500 ml
 - name: mixed herbs
   amount: some
-- name: diced mushrooms
-  amount: 400 g
 - name: coconut milk
   amount: 400ml
 - name: garlic cloves
   amount: '4'
-- name: stock
-  amount: 1500 ml
+- name: diced mushrooms
+  amount: 400 g
 - name: red lentils
   amount: 200 g
-- name: onion
-  amount: '1'
 cookware:
 - name: pressure cooker
 - name: mixing bowl
