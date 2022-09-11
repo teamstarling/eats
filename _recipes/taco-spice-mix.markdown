@@ -1,26 +1,26 @@
 ---
 title: Taco Spice Mix
 metadata:
-  source: https://www.bbc.co.uk/food/recipes/taco_seasoning_47611
-  title: Taco Spice Mix
   course: Spice
+  title: Taco Spice Mix
+  source: https://www.bbc.co.uk/food/recipes/taco_seasoning_47611
 ingredients:
+- name: sweet paprika
+  amount: 1 tbsp
+- name: ground cumin
+  amount: 2 tbsp
+- name: garlic powder
+  amount: 1 tbsp
+- name: chilli powder
+  amount: 2 tbsp
+- name: onion powder
+  amount: 1 tsp
 - name: dried oregano
   amount: 1 tbsp
 - name: salt
   amount: 1 tsp
 - name: black pepper
   amount: 1 tsp
-- name: garlic powder
-  amount: 1 tbsp
-- name: sweet paprika
-  amount: 1 tbsp
-- name: onion powder
-  amount: 1 tsp
-- name: chilli powder
-  amount: 2 tbsp
-- name: ground cumin
-  amount: 2 tbsp
 cookware:
 - name: bowl
 - name: container

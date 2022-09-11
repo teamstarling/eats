@@ -1,41 +1,41 @@
 ---
 title: Turkey Burgers
 metadata:
-  course: Main
   servings: '4'
   source: https://www.hazelblue.co/recipes/turkeyburgers
   title: Turkey Burgers
+  course: Main
 ingredients:
-- name: ground cinnamon
-  amount: 0.25 tsp
-- name: spices
-  amount: some
-- name: greek yogurt
-  amount: 0.5 cups
-- name: sweet potato
-  amount: '4'
-- name: ground cumin
-  amount: 1.5 tsp
-- name: coconut oil
-  amount: some
 - name: lemon
   amount: '0.5'
 - name: grated onion
   amount: '1'
-- name: turkey mince
-  amount: 500 g
-- name: grated cucumber
-  amount: '0.25'
-- name: smoked paprika
-  amount: 0.25 tsp
-- name: ground coriander
-  amount: 1.5 tsp
-- name: salt
-  amount: 2.2 tsp
-- name: olive oil
-  amount: 2 tbps
+- name: spices
+  amount: some
 - name: black pepper
   amount: some
+- name: smoked paprika
+  amount: 0.25 tsp
+- name: sweet potato
+  amount: '4'
+- name: coconut oil
+  amount: some
+- name: ground coriander
+  amount: 1.5 tsp
+- name: greek yogurt
+  amount: 0.5 cups
+- name: salt
+  amount: 2.2 tsp
+- name: ground cumin
+  amount: 1.5 tsp
+- name: olive oil
+  amount: 2 tbps
+- name: turkey mince
+  amount: 500 g
+- name: ground cinnamon
+  amount: 0.25 tsp
+- name: grated cucumber
+  amount: '0.25'
 cookware:
 - name: mixing bowl
 - name: griddle pan
