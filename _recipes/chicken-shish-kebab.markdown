@@ -1,28 +1,28 @@
 ---
 title: Chicken Shish Kebab
 metadata:
-  servings: '4'
   title: Chicken Shish Kebab
   course: Main
+  servings: '4'
 ingredients:
 - name: garlic
   amount: 2 cloves
-- name: onion
-  amount: '1'
-- name: chicken breasts
-  amount: '2'
-- name: "tomato pur\xE9e"
-  amount: 2 tbsp
 - name: vegetable oil
   amount: 3 tbsp
-- name: paprika
-  amount: 1 tsp
-- name: black pepper
-  amount: 1 tsp
 - name: salt
   amount: 1 tsp
 - name: yogurt
   amount: 0.5 cups
+- name: "tomato pur\xE9e"
+  amount: 2 tbsp
+- name: black pepper
+  amount: 1 tsp
+- name: chicken breasts
+  amount: '2'
+- name: paprika
+  amount: 1 tsp
+- name: onion
+  amount: '1'
 cookware:
 - name: bowl
 - name: bowl

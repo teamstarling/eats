@@ -1,30 +1,30 @@
 ---
 title: Tahini Brownies
 metadata:
+  servings: '16'
   title: Tahini Brownies
   course: Treat
-  servings: '16'
 ingredients:
 - name: baking powder
   amount: 1 tsp
-- name: tahini
-  amount: 2 tbsp
-- name: salt
-  amount: 1 tsp
-- name: cocoa powder
-  amount: 0.25 cups
-- name: eggs
-  amount: '2'
 - name: buckwheat flour
   amount: 0.5 cups
+- name: salt
+  amount: 1 tsp
+- name: eggs
+  amount: '2'
+- name: tahini
+  amount: 2 tbsp
+- name: baked sweet potato
+  amount: '3'
+- name: cocoa powder
+  amount: 0.25 cups
+- name: chocolate chips
+  amount: 2 tbsp
 - name: oat milk
   amount: 0.25 cups
 - name: maple syrup
   amount: 0.25 cups
-- name: baked sweet potato
-  amount: '3'
-- name: chocolate chips
-  amount: 2 tbsp
 - name: medjool dates
   amount: '3'
 cookware:
