@@ -1,26 +1,26 @@
 ---
 title: Chocolate Banana Muffins
 metadata:
+  title: Chocolate Banana Muffins
   course: Treat
   servings: '8'
-  title: Chocolate Banana Muffins
 ingredients:
-- name: baking soda
-  amount: 0.5 tsp
-- name: vanilla extract
-  amount: 1tsp
+- name: oat milk
+  amount: 2 tbsp
 - name: medium bananas
   amount: '3'
+- name: vanilla extract
+  amount: 1tsp
+- name: cacao powder
+  amount: 0.25 cups
 - name: baking powder
+  amount: 0.5 tsp
+- name: oats
+  amount: 1 cup
+- name: baking soda
   amount: 0.5 tsp
 - name: chocolate chips
   amount: 30 g
-- name: cacao powder
-  amount: 0.25 cups
-- name: oats
-  amount: 1 cup
-- name: oat milk
-  amount: 2 tbsp
 - name: large egg
   amount: '1'
 cookware:

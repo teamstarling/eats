@@ -6,18 +6,18 @@ metadata:
   source: https://www.panmacmillan.com/blogs/lifestyle-wellbeing/joe-wicks-protein-pancakes-recipe-body-coach
   title: Banana Pancakes
 ingredients:
-- name: baking powder
-  amount: 1 pinch
-- name: egg
-  amount: '1'
 - name: coconut oil
   amount: 1 tsp
-- name: protein powder
-  amount: 1 scoop
 - name: oats
   amount: 25 g
 - name: banana
   amount: '1'
+- name: egg
+  amount: '1'
+- name: protein powder
+  amount: 1 scoop
+- name: baking powder
+  amount: 1 pinch
 cookware:
 - name: blender
 - name: frying pan
