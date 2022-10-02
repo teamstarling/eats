@@ -1,22 +1,22 @@
 ---
 title: Fajita Spice Mix
 metadata:
-  course: Spice
   source: https://www.bbcgoodfood.com/recipes/fajita-seasoning
   title: Fajita Spice Mix
+  course: Spice
 ingredients:
-- name: hot chilli powder
-  amount: 0.5 tbsp
-- name: ground coriander
-  amount: 0.5 tbsp
 - name: ground cumin
   amount: 1 tbsp
 - name: dried oregano
   amount: 1.5 tbsp
-- name: sweet smoked paprika
-  amount: 2 tbsp
 - name: garlic powder
   amount: 1 tbsp
+- name: hot chilli powder
+  amount: 0.5 tbsp
+- name: sweet smoked paprika
+  amount: 2 tbsp
+- name: ground coriander
+  amount: 0.5 tbsp
 cookware:
 - name: bowl
 - name: container

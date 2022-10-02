@@ -5,14 +5,14 @@ metadata:
   servings: '6'
   title: Yorkshire Puddings
 ingredients:
-- name: olive oil
-  amount: 6 tbsp
 - name: oat milk
   amount: 100 ml
-- name: cornflour
-  amount: 65 g
+- name: olive oil
+  amount: 6 tbsp
 - name: eggs
   amount: '2'
+- name: cornflour
+  amount: 65 g
 cookware:
 - name: muffin tray
 - name: mixing bowl

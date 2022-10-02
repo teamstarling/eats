@@ -7,22 +7,22 @@ metadata:
 ingredients:
 - name: salt
   amount: 0.5 tsp
-- name: dates
-  amount: 45g
+- name: peanut butter
+  amount: 590 g
 - name: baking powder
   amount: 1 tsp
 - name: maple syrup
   amount: 320 g
-- name: chocolate chips
-  amount: 75g
-- name: cacao powder
-  amount: 65g
-- name: eggs
-  amount: '2'
 - name: vanilla essence
   amount: 1 tbsp
-- name: peanut butter
-  amount: 590 g
+- name: chocolate chips
+  amount: 75g
+- name: eggs
+  amount: '2'
+- name: dates
+  amount: 45g
+- name: cacao powder
+  amount: 65g
 cookware:
 - name: mixing bowl
 - name: whisk
