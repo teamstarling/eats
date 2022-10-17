@@ -1,39 +1,39 @@
 ---
 title: Sri Lankan Curry
 metadata:
-  course: Main
+  source: https://www.yellowkitebooks.co.uk/yellow-kite-books-posts/yellow-kite-books-healthy-eating/2018/9/05/deliciously-ellas-sri-lankan-curry-recipe/
   title: Sri Lankan Curry
   servings: '4'
-  source: https://www.yellowkitebooks.co.uk/yellow-kite-books-posts/yellow-kite-books-healthy-eating/2018/9/05/deliciously-ellas-sri-lankan-curry-recipe/
+  course: Main
 ingredients:
+- name: red peppers
+  amount: '2'
+- name: baby spinach
+  amount: 100 g
+- name: chilli powder
+  amount: 0.5 tsp
+- name: garlic
+  amount: 3 cloves
+- name: tumeric
+  amount: 0.5 tsp
+- name: coconut milk
+  amount: 400 g
+- name: red onion
+  amount: 1 large
+- name: sweet potato
+  amount: '2'
+- name: lime
+  amount: '0.5'
 - name: coconut oil
   amount: 3 tbsp
-- name: tumeric
+- name: ground cinnamon
   amount: 0.5 tsp
 - name: cumin seeds
   amount: 1 tsp
-- name: chilli powder
-  amount: 0.5 tsp
-- name: baby spinach
-  amount: 100 g
-- name: garlic
-  amount: 3 cloves
-- name: sweet potato
-  amount: '2'
 - name: chilli
   amount: 1 small
-- name: coconut milk
-  amount: 400 g
-- name: lime
-  amount: '0.5'
-- name: red onion
-  amount: 1 large
 - name: curry powder
   amount: 1 tsp
-- name: red peppers
-  amount: '2'
-- name: ground cinnamon
-  amount: 0.5 tsp
 cookware:
 - name: mixing bowl
 - name: baking tray

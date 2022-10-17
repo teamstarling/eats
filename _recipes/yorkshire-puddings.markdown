@@ -1,18 +1,18 @@
 ---
 title: Yorkshire Puddings
 metadata:
-  course: Side
   servings: '6'
   title: Yorkshire Puddings
+  course: Side
 ingredients:
 - name: olive oil
   amount: 6 tbsp
-- name: cornflour
-  amount: 65 g
 - name: oat milk
   amount: 100 ml
 - name: eggs
   amount: '2'
+- name: cornflour
+  amount: 65 g
 cookware:
 - name: muffin tray
 - name: mixing bowl

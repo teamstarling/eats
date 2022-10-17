@@ -5,19 +5,19 @@ metadata:
   course: Treat
   servings: '16'
 ingredients:
-- name: peanut butter
-  amount: 250 g
-- name: sunflower seeds
-  amount: some
-- name: dates
-  amount: some
-- name: chia seeds
-  amount: some
-- name: oats
-  amount: 180 g
 - name: rice syrup
   amount: 120 g
 - name: raisins
+  amount: some
+- name: chia seeds
+  amount: some
+- name: dates
+  amount: some
+- name: peanut butter
+  amount: 250 g
+- name: oats
+  amount: 180 g
+- name: sunflower seeds
   amount: some
 cookware:
 - name: mixing bowl

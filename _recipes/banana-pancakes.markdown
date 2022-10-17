@@ -1,23 +1,23 @@
 ---
 title: Banana Pancakes
 metadata:
-  source: https://www.panmacmillan.com/blogs/lifestyle-wellbeing/joe-wicks-protein-pancakes-recipe-body-coach
-  course: Breakfast
   title: Banana Pancakes
+  course: Breakfast
+  source: https://www.panmacmillan.com/blogs/lifestyle-wellbeing/joe-wicks-protein-pancakes-recipe-body-coach
   servings: '1'
 ingredients:
-- name: protein powder
-  amount: 1 scoop
-- name: coconut oil
-  amount: 1 tsp
-- name: oats
-  amount: 25 g
 - name: egg
   amount: '1'
-- name: banana
-  amount: '1'
+- name: coconut oil
+  amount: 1 tsp
+- name: protein powder
+  amount: 1 scoop
+- name: oats
+  amount: 25 g
 - name: baking powder
   amount: 1 pinch
+- name: banana
+  amount: '1'
 cookware:
 - name: blender
 - name: frying pan

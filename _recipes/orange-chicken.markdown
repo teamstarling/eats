@@ -2,35 +2,35 @@
 title: Orange Chicken
 metadata:
   course: Main
-  servings: '4'
+  servings: '2'
   title: Orange Chicken
 ingredients:
-- name: ginger
-  amount: 0.5 inches
-- name: oil
-  amount: some
-- name: chicken thighs
-  amount: '2'
-- name: orange
-  amount: '1'
-- name: soy sauce
-  amount: 2 tbsp, 2 tsp
 - name: dried chilli
   amount: '1'
-- name: egg
+- name: orange
   amount: '1'
-- name: sesame oil
-  amount: 1 tsp
-- name: spring onion
-  amount: '1'
-- name: corn starch
-  amount: 1@tbsp, 0.5 cups
-- name: sesame seeds
-  amount: some
 - name: tenderstem broccoli
   amount: some
+- name: sesame seeds
+  amount: some
+- name: ginger
+  amount: 0.5 inches
+- name: spring onion
+  amount: '1'
+- name: chicken thighs
+  amount: '2'
+- name: oil
+  amount: some
+- name: soy sauce
+  amount: 2 tbsp, 2 tsp
+- name: sesame oil
+  amount: 1 tsp
 - name: rice vinegar
   amount: 1 tsp
+- name: corn starch
+  amount: 1@tbsp, 0.5 cups
+- name: egg
+  amount: '1'
 cookware:
 - name: large bowl
 - name: small bowl
