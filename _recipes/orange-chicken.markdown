@@ -5,32 +5,32 @@ metadata:
   servings: '2'
   title: Orange Chicken
 ingredients:
-- name: dried chilli
-  amount: '1'
-- name: orange
-  amount: '1'
-- name: tenderstem broccoli
-  amount: some
 - name: sesame seeds
   amount: some
 - name: ginger
   amount: 0.5 inches
-- name: spring onion
-  amount: '1'
 - name: chicken thighs
   amount: '2'
 - name: oil
   amount: some
 - name: soy sauce
   amount: 2 tbsp, 2 tsp
-- name: sesame oil
-  amount: 1 tsp
+- name: tenderstem broccoli
+  amount: some
+- name: corn starch
+  amount: 0.5 cups, 1 tbsp
 - name: rice vinegar
   amount: 1 tsp
-- name: corn starch
-  amount: 1@tbsp, 0.5 cups
+- name: orange
+  amount: '1'
 - name: egg
   amount: '1'
+- name: dried chilli
+  amount: '1'
+- name: spring onion
+  amount: '1'
+- name: sesame oil
+  amount: 1 tsp
 cookware:
 - name: large bowl
 - name: small bowl
