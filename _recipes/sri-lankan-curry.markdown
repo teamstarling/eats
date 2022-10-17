@@ -6,34 +6,34 @@ metadata:
   servings: '4'
   source: https://www.yellowkitebooks.co.uk/yellow-kite-books-posts/yellow-kite-books-healthy-eating/2018/9/05/deliciously-ellas-sri-lankan-curry-recipe/
 ingredients:
+- name: coconut oil
+  amount: 3 tbsp
+- name: tumeric
+  amount: 0.5 tsp
 - name: cumin seeds
-  amount: 1 tsp
-- name: lime
-  amount: '0.5'
-- name: curry powder
   amount: 1 tsp
 - name: chilli powder
   amount: 0.5 tsp
-- name: chilli
-  amount: 1 small
 - name: baby spinach
   amount: 100 g
-- name: coconut milk
-  amount: 400 g
 - name: garlic
   amount: 3 cloves
-- name: coconut oil
-  amount: 3 tbsp
-- name: red peppers
-  amount: '2'
-- name: tumeric
-  amount: 0.5 tsp
-- name: ground cinnamon
-  amount: 0.5 tsp
 - name: sweet potato
   amount: '2'
+- name: chilli
+  amount: 1 small
+- name: coconut milk
+  amount: 400 g
+- name: lime
+  amount: '0.5'
 - name: red onion
   amount: 1 large
+- name: curry powder
+  amount: 1 tsp
+- name: red peppers
+  amount: '2'
+- name: ground cinnamon
+  amount: 0.5 tsp
 cookware:
 - name: mixing bowl
 - name: baking tray
