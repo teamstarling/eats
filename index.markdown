@@ -13,7 +13,7 @@ title: Recipes
     {% for recipe in group.items %}
     <li>
         <a href="{{ recipe.url | relative_url }}">
-        {{ recipe.title }}
+        {{ recipe.metadata.title }}
         </a>
     </li>
     {%endfor%}
