@@ -1,30 +1,30 @@
 ---
 title: Overnight Oats Carrot Cake
 metadata:
-  servings: '1'
-  title: Overnight Oats &mdash; Carrot Cake
+  title: Overnight Oats &ndash; Carrot Cake
   course: Breakfast
+  servings: '1'
 ingredients:
-- name: water
-  amount: 100 ml
-- name: greek yogurt
-  amount: 150 g
-- name: chia seeds
-  amount: 8 g
-- name: grated carrot
-  amount: 20 g
-- name: vanilla casein protein powder
-  amount: 30 g
-- name: cinnamon
-  amount: 0.5 tsp
-- name: raisins
-  amount: 25 g
 - name: oats
   amount: 50 g
+- name: cinnamon
+  amount: 0.5 tsp
 - name: maple syrup
   amount: 10 g
 - name: oat milk
   amount: 100 g
+- name: greek yogurt
+  amount: 150 g
+- name: water
+  amount: 100 ml
+- name: vanilla casein protein powder
+  amount: 30 g
+- name: grated carrot
+  amount: 20 g
+- name: raisins
+  amount: 25 g
+- name: chia seeds
+  amount: 8 g
 cookware:
 - name: storage pot
 steps:

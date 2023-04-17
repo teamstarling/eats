@@ -5,22 +5,22 @@ metadata:
   source: https://www.bbc.co.uk/food/recipes/taco_seasoning_47611
   course: Spice
 ingredients:
-- name: sweet paprika
-  amount: 1 tbsp
-- name: onion powder
-  amount: 1 tsp
 - name: salt
   amount: 1 tsp
-- name: dried oregano
+- name: black pepper
+  amount: 1 tsp
+- name: ground cumin
+  amount: 2 tbsp
+- name: sweet paprika
   amount: 1 tbsp
 - name: garlic powder
   amount: 1 tbsp
-- name: ground cumin
-  amount: 2 tbsp
 - name: chilli powder
   amount: 2 tbsp
-- name: black pepper
+- name: onion powder
   amount: 1 tsp
+- name: dried oregano
+  amount: 1 tbsp
 cookware:
 - name: bowl
 - name: container

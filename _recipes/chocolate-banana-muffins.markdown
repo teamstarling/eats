@@ -5,24 +5,24 @@ metadata:
   servings: '8'
   course: Treat
 ingredients:
-- name: baking soda
-  amount: 0.5 tsp
-- name: oat milk
-  amount: 2 tbsp
 - name: baking powder
   amount: 0.5 tsp
+- name: medium bananas
+  amount: '3'
+- name: baking soda
+  amount: 0.5 tsp
+- name: large egg
+  amount: '1'
 - name: chocolate chips
   amount: 30 g
+- name: oats
+  amount: 1 cup
+- name: oat milk
+  amount: 2 tbsp
 - name: cacao powder
   amount: 0.25 cups
 - name: vanilla extract
   amount: 1tsp
-- name: oats
-  amount: 1 cup
-- name: large egg
-  amount: '1'
-- name: medium bananas
-  amount: '3'
 cookware:
 - name: large mixing bowl
 - name: medium mixing bowl

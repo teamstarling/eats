@@ -5,11 +5,7 @@ metadata:
   course: Treat
   servings: '16'
 ingredients:
-- name: oat milk
-  amount: 0.25 cups
-- name: baked sweet potato
-  amount: '3'
-- name: salt
+- name: baking powder
   amount: 1 tsp
 - name: maple syrup
   amount: 0.25 cups
@@ -19,14 +15,18 @@ ingredients:
   amount: '3'
 - name: eggs
   amount: '2'
-- name: buckwheat flour
-  amount: 0.5 cups
-- name: baking powder
-  amount: 1 tsp
-- name: tahini
-  amount: 2 tbsp
 - name: cocoa powder
   amount: 0.25 cups
+- name: oat milk
+  amount: 0.25 cups
+- name: salt
+  amount: 1 tsp
+- name: buckwheat flour
+  amount: 0.5 cups
+- name: baked sweet potato
+  amount: '3'
+- name: tahini
+  amount: 2 tbsp
 cookware:
 - name: mixing bowl
 - name: mash
