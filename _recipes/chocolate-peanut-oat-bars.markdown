@@ -2,21 +2,21 @@
 title: Chocolate Peanut Oat Bars
 metadata:
   servings: '8'
-  course: Treat
   title: Chocolate Peanut Oat Bars
+  course: Treat
 ingredients:
-- name: water
-  amount: 100 ml
-- name: oat milk
-  amount: 150 g
 - name: cacao powder
   amount: 30 g
+- name: peanut butter
+  amount: 50 g
 - name: oats
   amount: 150 g
 - name: protein powder
   amount: 60 g
-- name: peanut butter
-  amount: 50 g
+- name: water
+  amount: 100 ml
+- name: oat milk
+  amount: 150 g
 cookware:
 - name: mixing bowl
 - name: silicon mini loaf mould
