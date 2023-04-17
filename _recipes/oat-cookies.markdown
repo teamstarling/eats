@@ -7,19 +7,19 @@ metadata:
 ingredients:
 - name: oats
   amount: 200 g
-- name: oat milk
-  amount: 1 tbsp
 - name: maple syrup
   amount: 7 tbsp
-- name: chocolate chips
-  amount: 40 g
-- name: protein powder
-  amount: 1 heaped tbsp
 - name: melted coconut oil
   amount: 4 tbsp
+- name: chocolate chips
+  amount: 40 g
 - name: baking powder
   amount: 1 tsp
 - name: cacao powder
+  amount: 1 heaped tbsp
+- name: oat milk
+  amount: 1 tbsp
+- name: protein powder
   amount: 1 heaped tbsp
 cookware:
 - name: mixing bowl

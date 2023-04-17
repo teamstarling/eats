@@ -5,21 +5,21 @@ metadata:
   servings: '1'
   title: Porridge
 ingredients:
-- name: raisins
-  amount: some
 - name: cinnamon
   amount: 0.5 tsp
-- name: oats
-  amount: 0.5 cups
-- name: flaxseed
-  amount: some
 - name: water
   amount: 0.5 cups
 - name: dates
   amount: some
+- name: oat milk
+  amount: 0.5 cups
 - name: chia seeds
   amount: some
-- name: oat milk
+- name: flaxseed
+  amount: some
+- name: raisins
+  amount: some
+- name: oats
   amount: 0.5 cups
 cookware:
 - name: saucepan
