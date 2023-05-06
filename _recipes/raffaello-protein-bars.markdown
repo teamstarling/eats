@@ -1,22 +1,22 @@
 ---
 title: Raffaello Protein Bars
 metadata:
+  servings: '8'
   title: Raffaello Protein Bars
   course: Treat
-  servings: '8'
 ingredients:
-- name: vanilla protein powder
-  amount: 50 g
 - name: almond butter
   amount: 50 g
-- name: dessicated coconut
-  amount: 15 g
-- name: bananas
-  amount: 2 medium
-- name: water
-  amount: some
 - name: oats
   amount: 100 g
+- name: dessicated coconut
+  amount: 15 g
+- name: vanilla protein powder
+  amount: 50 g
+- name: water
+  amount: some
+- name: bananas
+  amount: 2 medium
 cookware:
 - name: mixing bowl
 - name: silicon mini loaf mould

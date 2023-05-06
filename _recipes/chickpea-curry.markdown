@@ -1,37 +1,37 @@
 ---
 title: Chickpea Curry
 metadata:
-  title: Chickpea Curry
   course: Main
-  source: https://yupitsvegan.com/easy-coconut-chickpea-curry/
+  title: Chickpea Curry
   servings: '4'
+  source: https://yupitsvegan.com/easy-coconut-chickpea-curry/
 ingredients:
-- name: cayenne pepper
-  amount: 0.25 tsp
-- name: garam masala
-  amount: 1 tbsp
-- name: garlic
-  amount: 3 cloves
 - name: chickpeas
   amount: 240g
-- name: chopped tomatoes
-  amount: 400 g
 - name: ground tumeric
   amount: 0.25 tsp
-- name: coconut oil
-  amount: 1 tbsp
-- name: red onion
-  amount: 1 large
 - name: lime
   amount: '1'
+- name: garlic
+  amount: 3 cloves
+- name: coconut oil
+  amount: 1 tbsp
 - name: coconut milk
   amount: 400 g
+- name: chopped tomatoes
+  amount: 400 g
+- name: red onion
+  amount: 1 large
+- name: ginger
+  amount: 1 inch
+- name: garam masala
+  amount: 1 tbsp
 - name: salt
+  amount: 0.25 tsp
+- name: cayenne pepper
   amount: 0.25 tsp
 - name: black pepper
   amount: 0.25 tsp
-- name: ginger
-  amount: 1 inch
 cookware:
 - name: frying pan
 steps:

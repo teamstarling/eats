@@ -1,25 +1,25 @@
 ---
 title: Porridge
 metadata:
-  course: Breakfast
   servings: '1'
+  course: Breakfast
   title: Porridge
 ingredients:
-- name: cinnamon
-  amount: 0.5 tsp
 - name: flaxseed
   amount: some
-- name: dates
-  amount: some
+- name: oat milk
+  amount: 0.5 cups
 - name: raisins
+  amount: some
+- name: cinnamon
+  amount: 0.5 tsp
+- name: chia seeds
   amount: some
 - name: water
   amount: 0.5 cups
 - name: oats
   amount: 0.5 cups
-- name: oat milk
-  amount: 0.5 cups
-- name: chia seeds
+- name: dates
   amount: some
 cookware:
 - name: saucepan
